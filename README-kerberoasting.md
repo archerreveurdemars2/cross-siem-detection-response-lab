@@ -145,9 +145,9 @@ L’entité visée par le runbook est le **compte de service** (`svc-sql`), pas 
 
 [Script d’action Splunk / configuration de l’envoi vers Sentinel](./send_to_sentinel.py)
 
-![Données reçues dans la table SplunkAlerts_CL](./Capture%20d'écran%202026-09-23%20145258.png)
+![Données reçues dans la table SplunkAlerts_CL](./Capture%20d'écran%202026-09-24%20142032.png)
 
-![Règle d’analytique Sentinel générant l’incident](./Capture%20d'écran%202026-09-16%20191225.png)
+![Règle d’analytique Sentinel générant l’incident](./Capture%20d'écran%202026-09-24%20141734.png)
 
 ---
 
