@@ -67,4 +67,4 @@ Ces difficultés ont été diagnostiquées et corrigées au fur et à mesure, pl
 ## 📚 Documentation complète
 
 - **[Brute Force](./README-bruteforce.md)** — de la génération des Event 4625 jusqu’à la désactivation automatique du compte.
-- **[Kerberoasting](./KERBEROASTING.md)** — de la détection des TGS RC4 jusqu’à la rotation automatique du mot de passe du compte de service.
+- **[Kerberoasting](./README-kerberoasting.md)** — de la détection des TGS RC4 jusqu’à la rotation automatique du mot de passe du compte de service.
